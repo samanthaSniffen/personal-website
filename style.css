@@ -9,6 +9,10 @@ h1 {
   font-family: Arial, sans-serif;
 }
 
+a {
+  color: #E2BAB1;
+}
+  
 /* footer */
 .footer {
    position: fixed;
