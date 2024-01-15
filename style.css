@@ -9,3 +9,13 @@ h1 {
   font-family: Arial, sans-serif;
 }
 
+/* footer */
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #BFA2DB;
+   color: #F0D9FF;
+   text-align: center;
+}
