@@ -19,7 +19,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  border: 1px solid #B67C7F;
+  border: 1px solid #E9D8D9;
   background-color: #B67C7F;
 }
 
@@ -37,6 +37,7 @@ li a {
 
 li a:hover:not(.active) {
   background-color: #E9D8D9;
+  color: #B67C7F;
 }
 
 li a.active {
